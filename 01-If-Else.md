@@ -52,15 +52,15 @@ Imagine you are creating a very polite robot.
 
 You want the robot to say "Hello Sir" or "Hello Madam" depending on the gender of person it is talking to.
 
-*Step 1* - How might this look as a flow chart?
+### Step 1 - How might this look as a flow chart?
 
 [Sample answer](01-If-Else-samples.md)
 
-*Step 2* - How could we write this in Pseudo code?
+### Step 2 - How could we write this in Pseudo code?
 
 [Sample answer](01-If-Else-samples.md)
 
-*Step 3* - Now let's try in code?
+### Step 3 - Now let's try in code?
 
 [Sample answer](01-If-Else-samples.md)
 
@@ -82,7 +82,7 @@ Several outcomes are possible:
 * If the toast is burnt, you will throw it away and try again
 * If the toast is perfect, you will eat it.
 
-*Step 1* - How might this look as a flow chart?
+### Step 1 - How might this look as a flow chart?
 
 ![Scenario 3](ep01s03.png)
 
@@ -94,10 +94,10 @@ Consider asking a series of questions that all have "Yes/No" answers.
 
 Like this ![Scenario 3b](ep01s03b.png)
 
-*Step 2* - How could we write this in Pseudo code?
+### Step 2 - How could we write this in Pseudo code?
 
 [Sample answer](01-If-Else-samples.md)
 
-*Step 3* - Now let's try in code?
+### Step 3 - Now let's try in code?
 
 [Sample answer](01-If-Else-samples.md)
