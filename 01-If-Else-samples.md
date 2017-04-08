@@ -2,7 +2,7 @@
 
 ### Step 1- How might this look as a flow chart?
 
-![Scenario 2](ep01s02.png)
+![Scenario 2](resources/ep01s02.png)
 
 ### Step 2 - How could we write this in Pseudo code?
 

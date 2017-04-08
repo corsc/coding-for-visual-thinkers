@@ -24,7 +24,7 @@ Every day except Friday, you turn left to your house but on Friday, you turn rig
 
 *Step 1* - First thing we should do is turn this into a flowchart
  
-![Scenario 1](ep01s01.png)
+![Scenario 1](resources/ep01s01.png)
 
 *Step 2* - Let's see if we can re-write this in something more concise.  We will call this "pseudo code".
 
@@ -84,7 +84,7 @@ Several outcomes are possible:
 
 ### Step 1 - How might this look as a flow chart?
 
-![Scenario 3](ep01s03.png)
+![Scenario 3](resources/ep01s03.png)
 
 We have a problem, there are 3 possible outcomes but "If/Else" can only handle 2.
 
@@ -92,7 +92,7 @@ Actually, we can around this problem by breaking the situation down to a series 
 
 Consider asking a series of questions that all have "Yes/No" answers.
 
-Like this ![Scenario 3b](ep01s03b.png)
+Like this ![Scenario 3b](resources/ep01s03b.png)
 
 ### Step 2 - How could we write this in Pseudo code?
 
