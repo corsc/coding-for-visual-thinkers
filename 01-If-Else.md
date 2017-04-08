@@ -54,15 +54,15 @@ You want the robot to say "Hello Sir" or "Hello Madam" depending on the gender o
 
 ### Step 1 - How might this look as a flow chart?
 
-[Sample answer](01-If-Else-samples.md)
+[Sample answer](01-If-Else-samples.md#s02s01)
 
 ### Step 2 - How could we write this in Pseudo code?
 
-[Sample answer](01-If-Else-samples.md)
+[Sample answer](01-If-Else-samples.md#s02s02)
 
 ### Step 3 - Now let's try in code?
 
-[Sample answer](01-If-Else-samples.md)
+[Sample answer](01-If-Else-samples.md#s02s03)
 
 ## Scenario 3: 
 
@@ -96,8 +96,8 @@ Like this ![Scenario 3b](ep01s03b.png)
 
 ### Step 2 - How could we write this in Pseudo code?
 
-[Sample answer](01-If-Else-samples.md)
+[Sample answer](01-If-Else-samples.md#s03s02)
 
 ### Step 3 - Now let's try in code?
 
-[Sample answer](01-If-Else-samples.md)
+[Sample answer](01-If-Else-samples.md#s03s03)
