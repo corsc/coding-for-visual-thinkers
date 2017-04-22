@@ -100,4 +100,4 @@ again.
 
 ### Step 3 - Now let's try in code?
 
-[Sample answer](01-Switch-samples.md#step-3---now-lets-try-in-code-1)
+[Sample answer](02-Switch-samples.md#step-3---now-lets-try-in-code-1)
