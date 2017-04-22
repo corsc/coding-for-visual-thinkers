@@ -1,6 +1,6 @@
 # Episode 02 - Switch
 
-In the [previous episode](01-If-Else-samples.md) we looked at "If / Else" which was good for decisions that have only 2 
+In the [previous episode](01-If-Else.md) we looked at "If / Else" which was good for decisions that have only 2 
 possible outcomes.  But what happens when you have more than 2 outcomes?
 
 We saw that you could write many if/else statements together but this tends to get messy really fast.
