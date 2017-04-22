@@ -74,7 +74,7 @@ Something like the bottom left corner of this clock.
 
 ### Step 3 - Now let's try in code?
 
-[Sample answer](01-Switch-samples.md#step-3---now-lets-try-in-code)
+[Sample answer](02-Switch-samples.md#step-3---now-lets-try-in-code)
 
 
 ## Scenario 3:
