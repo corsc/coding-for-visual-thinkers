@@ -9,7 +9,7 @@ In this episode we will be using "Switch".  "Switch" is similar to "If / Else" i
 
 "Switch" consists of 2 parts: 
 1. A decision - this is referred to as the switch condition
-2. 1 or more outcomes - these are calls "cases"
+2. 1 or more outcomes - these are called "cases"
 
 ## Scenario 1:
 
@@ -29,14 +29,14 @@ Several outcomes are possible:
 
 ![Scenario 1](resources/ep02s01.png)
 
-*Step 2* - Let's see if we can re-write this in something more concise.  We will call this "pseudo code".
+### Step 2 - Let's see if we can re-write this in something more concise.  We will call this "pseudo code".
 
 In this case we kinda already have this in the description:
 * If the toast is undercooked, you will press the lever down again.
 * If the toast is burnt, you will throw it away and try again
 * If the toast is perfect, you will eat it.
 
-*Step 3* - Now let's try some real code
+### Step 3 - Now let's try some real code
 
 ```
 switch toastIs {

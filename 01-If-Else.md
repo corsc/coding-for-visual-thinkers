@@ -22,17 +22,17 @@ You turn off the highway and come to the traffic lights.
 
 Every day except Friday, you turn left to your house but on Friday, you turn right and go out dancing with your girlfriends.
 
-*Step 1* - First thing we should do is turn this into a flowchart
+### Step 1 - First thing we should do is turn this into a flowchart
  
 ![Scenario 1](resources/ep01s01.png)
 
-*Step 2* - Let's see if we can re-write this in something more concise.  We will call this "pseudo code".
+### Step 2 - Let's see if we can re-write this in something more concise.  We will call this "pseudo code".
 
 ```
 If today is Friday then go right; otherwise go left.
 ```
 
-*Step 3* - Now let's try some real code
+### Step 3 - Now let's try some real code
 
 ```
 if today == "Friday" {
