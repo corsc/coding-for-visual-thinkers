@@ -27,7 +27,7 @@ Try changing the date and click the "Run" button and see what happens.
 
 ### Step 1- How might this look as a flow chart?
 
-![Scenario 2](resources/ep03s03.png)
+![Scenario 2](resources/ep02s03.png)
 
 ### Step 2 - How could we write this in Pseudo code?
 
